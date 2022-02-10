@@ -1,10 +1,9 @@
-== Automação Blog Agi
+# Automação Blog Agi
 
 Projeto de automação do blog Agi
 
-=== Tecnologia utilizada
+## Tecnologia utilizada
 
 * Selenium Web Driver
 * Java
 * Maven
-
